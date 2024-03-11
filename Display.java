@@ -5,6 +5,6 @@ public class Display{
         this.i=i;
     }
     void display(){
-        System.out.println(i);
+        System.out.printlntln(i);
     }
 }
